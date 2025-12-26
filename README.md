@@ -1,15 +1,16 @@
-<div style="text-align: center;">
+<h1 align="center">Hi 👋, I'm Maxim Morozov</h1>
+<h3 align="center">Frontend Developer</h3>
 
-# Hi 👋, I'm Maxim Morozov
+<p align="center">
+I develop modern web applications using JavaScript, building reusable components, managing state, and delivering responsive, scalable, user-focused solutions.<br/>
+Experienced in taking projects from concept to production with clean, maintainable code.
+</p>
 
-### Frontend Developer
-
-I develop modern web applications using JavaScript, building reusable components, managing state, and delivering responsive, scalable, user-focused solutions. Experienced in taking projects from concept to production with clean, maintainable code.
-<i>
-📍 Rostov-on-Don, Russia  
+<p align="center">
+📍 Rostov-on-Don, Russia<br/>
 🌍 Open to worldwide opportunities
-</i>
-</div>
+</p>
+
 
 ---
 
