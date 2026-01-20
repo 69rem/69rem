@@ -7,7 +7,7 @@ Experienced in taking projects from concept to production with clean, maintainab
 </p>
 
 <p align="center">
-📍 Rostov-on-Don, Russia<br/>
+📍 Rostov-on-Don<br/>
 🌍 Open to worldwide opportunities
 </p>
 
@@ -51,7 +51,7 @@ Experienced in taking projects from concept to production with clean, maintainab
 
 ## Next Steps & Growth
 
-**Next (Frontend Mastery):**
+**Next (Frontend Mastery):**  
 ![Angular](https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=DD0031) ![Redux](https://img.shields.io/badge/Redux-111111?style=flat-square&logo=redux&logoColor=764ABC) ![Zustand](https://img.shields.io/badge/Zustand-111111?style=flat-square) ![Webpack](https://img.shields.io/badge/Webpack-111111?style=flat-square&logo=webpack&logoColor=8DD6F9) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Axios](https://img.shields.io/badge/Axios-111111?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql&logoColor=E10098)
 
 **Backend & Expanding Skills:**  
